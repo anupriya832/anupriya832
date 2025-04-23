@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently Pursuing B.Tech in Artificial Intelligence and Machine Learning from Government Women Engineering College,Ajmer [Weather App](https://anupriya832.github.io/weather-app/)
 
-- 🌱 I’m currently learning **Advanced concept in React,DSA,Real-World Project Building**
+- 🌱 I’m currently learning **Advanced concept in React,DSA,Real-World Project Building**[Tic Tac Toe](https://anupriya832.github.io/Tic-Tac-Toe/)
 
 - 👯 I’m looking for Internship Opportunities to Enhance my skills in Frontend Development and AI. [Stone Paper Scissor Game](https://anupriya832.github.io/demo/)
 
