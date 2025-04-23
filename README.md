@@ -1,17 +1,24 @@
 ## Hi there 👋
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://anupriyakumawat.io)
+
 <h1 align="center">Hi 👋, I'm Anupriya Kumawat</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Fresher| B.Tech AIML Student | Frontend Developer in Progess</h3>
 <img align=“right” alt = “Coding” width=“400” src=“https://www.shecodes.io/challenge_submissions/1906722/embed”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupriya832&label=Profile%20views&color=0e75b6&style=flat" alt="anupriya832" /> </p>
 
+- 🔭 I’m currently Pursuing B.Tech in Artificial Intelligence and Machine Learning from Government Women Engineering College,Ajmer [Weather App](https://anupriya832.github.io/weather-app/)
+
 - 🌱 I’m currently learning **Advanced concept in React,DSA,Real-World Project Building**
+
+- 👯 I’m looking for Internship Opportunities to Enhance my skills in Frontend Development and AI. [Stone Paper Scissor Game](https://anupriya832.github.io/demo/)
 
 - 💬 Ask me about **HTML,CSS,JavaScript, React,Python**
 
 - 📫 How to reach me **anupriyakmwt@gmail.com**
+
+- ⚡ Fun fact **I enjoy building more than browsing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,3 +33,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anupriya832&show_icons=true&locale=en" alt="anupriya832" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anupriya832&" alt="anupriya832" /></p>
+
+
