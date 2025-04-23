@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Anupriya Kumawat</h1>
 <h3 align="center">Fresher| B.Tech AIML Student | Frontend Developer in Progess</h3>
-<img align=“right” alt = “Coding” width=“400” src=“https://www.shecodes.io/challenge_submissions/1906722/embed”>
+<img align=“right” alt = “Coding” width=“400” src=“https://faun.pub/top-3-online-code-editors-you-must-check-out-as-a-web-developer-c5301e3884f4”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupriya832&label=Profile%20views&color=0e75b6&style=flat" alt="anupriya832" /> </p>
 
