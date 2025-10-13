@@ -1,37 +1,134 @@
-## Hi there 👋
+## Hey 👋 What's Up??
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://anupriyakumawat.io)
+<h1 align="center">Waving from the World of Code 👋</h1>
+<h3 align="center">🚀 B.Tech AIML Student | Machine Learning in Progress | Passionate Learner</h3>
 
-<h1 align="center">Hi 👋, I'm Anupriya Kumawat</h1>
-<h3 align="center">Fresher| B.Tech AIML Student | Frontend Developer in Progess</h3>
-<img align=“right” alt = “Coding” width=“400” src=“https://faun.pub/top-3-online-code-editors-you-must-check-out-as-a-web-developer-c5301e3884f4”>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="300" alt="coding gif" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anupriya832&label=Profile%20views&color=0e75b6&style=flat" alt="anupriya832" /> </p>
+---
 
-- 🔭 I’m currently Pursuing B.Tech in Artificial Intelligence and Machine Learning from Government Women Engineering College,Ajmer [Weather App](https://anupriya832.github.io/weather-app/)
+### 🌟 About Me  
+- 🎓 Pursuing **B.Tech in Artificial Intelligence and Machine Learning** from *Government Women Engineering College, Ajmer*  
+- 💻 Currently learning **Advanced React, DSA, and Real-World Project Building**  
+- 💼 Looking for **Machine Learning Internship Opportunities** to enhance my technical and creative skills  
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Python and Machine Learning**  
+- ⚡ Fun fact: *I enjoy building more than browsing!*  
+- 📧 Reach me at: **anupriyakmwt@gmail.com**
 
-- 🌱 I’m currently learning **Advanced concept in React,DSA,Real-World Project Building**[Tic Tac Toe](https://anupriya832.github.io/Tic-Tac-Toe/)
+---
 
-- 👯 I’m looking for Internship Opportunities to Enhance my skills in Frontend Development and AI. [Stone Paper Scissor Game](https://anupriya832.github.io/demo/)
+### 🧠 Projects  
+🔹 [**Weather App**](https://anupriya832.github.io/weather-app/) – A clean, responsive weather app using JavaScript and API integration  
+🔹 [**Tic Tac Toe**](https://anupriya832.github.io/Tic-Tac-Toe/) – Interactive game built using React & CSS animations  
+🔹 [**Stone Paper Scissor Game**](https://anupriya832.github.io/demo/) – Fun JS-based browser game  
 
-- 💬 Ask me about **HTML,CSS,JavaScript, React,Python**
+---
 
-- 📫 How to reach me **anupriyakmwt@gmail.com**
+### 🛠️ Languages and Tools  
 
-- ⚡ Fun fact **I enjoy building more than browsing**
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anupriya-kumawat-7629942b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anupriya-kumawat-7629942b0" height="30" width="40" /></a>
+  <!-- HTML -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML logo" />
+  <img width="12" />
+
+  <!-- CSS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="CSS logo" />
+  <img width="12" />
+
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript logo" />
+  <img width="12" />
+
+  <!-- React -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="React logo" />
+  <img width="12" />
+
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="Python logo" />
+  <img width="12" />
+
+  <!-- MySQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="MySQL logo" />
+  <img width="12" />
+
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="Git logo" />
+  <img width="12" />
+
+  <!-- GitHub -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="GitHub logo" />
+  <img width="12" />
+
+  <!-- VSCode -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="VSCode logo" />
+  <img width="12" />
+
+  <!-- Figma -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="Figma logo" />
+  <img width="12" />
+
+  <!-- Kaggle -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="60" alt="Kaggle logo" />
+  <img width="12" />
+
+  <!-- Google Colab -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" height="60" alt="Google Colab logo" />
+
+  <!-- NumPy -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="NumPy logo" />
+  <img width="12" />
+
+  <!-- Pandas -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="Pandas logo" />
+  </div>
+
+---
+
+### 🌐 Connect With Me  
+
+<div align="center">
+  <a href="https://linkedin.com/in/anupriya-kumawat-7629942b0" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" alt="linkedin logo"/>
+  </a>
+  <a href="mailto:anupriyakmwt@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="30" alt="gmail logo"/>
+  </a>
+</div>
+
+---
+
+### 📊 GitHub Stats  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anupriya832&show_icons=true&theme=dracula" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupriya832&layout=compact&theme=dracula" height="150" alt="languages graph" />
+</div>
+
+---
+
+### 🔥 Streak & Achievements  
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=anupriya832&theme=dracula&hide_border=false" height="150" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anupriya832&theme=dracula&margin-w=8&margin-h=8" height="150" alt="trophy graph" />
+</div>
+
+---
+
+### 🎮 Contribution Fun  
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anupriya832&label=Profile%20views&color=ff69b4&style=flat" alt="anupriya832" />
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anupriya832&show_icons=true&locale=en&layout=compact" alt="anupriya832" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anupriya832&show_icons=true&locale=en" alt="anupriya832" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anupriya832&" alt="anupriya832" /></p>
-
 
