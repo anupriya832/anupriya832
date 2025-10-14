@@ -66,10 +66,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="VSCode logo" />
   <img width="12" />
 
-  <!-- Figma -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="Figma logo" />
-  <img width="12" />
-
   <!-- Kaggle -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="60" alt="Kaggle logo" />
   <img width="12" />
