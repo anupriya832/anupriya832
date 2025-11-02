@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --color-uber-black: #000000;
+  --color-uber-white: #FFFFFF;
+  --color-uber-gray-50: #F6F6F6;
+  --color-uber-gray-100: #EEEEEE;
+  --color-uber-gray-200: #E2E2E2;
+  --color-uber-gray-300: #CBCBCB;
+  --color-uber-gray-400: #AFAFAF;
+  --color-uber-gray-500: #6B6B6B;
+  --color-uber-gray-600: #545454;
+  --color-uber-gray-700: #333333;
+  --color-uber-gray-800: #1F1F1F;
+  --color-uber-gray-900: #0D0D0D;
+}
