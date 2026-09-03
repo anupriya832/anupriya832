@@ -96,13 +96,17 @@
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anupriya832&show_icons=true&theme=dracula" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupriya832&layout=compact&theme=dracula" height="150" alt="languages graph" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=anupriya832&show_icons=true&theme=dracula&hide_border=true" height="165" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupriya832&layout=compact&theme=dracula&hide_border=true" height="165" alt="Top Languages" />
+
 </div>
 
+---
 ---
 
 ### 🔥 Streak & Achievements  
