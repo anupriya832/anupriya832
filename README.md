@@ -20,9 +20,9 @@
 ---
 
 ### 🧠 Projects  
-🔹 [**OpenADAS**](https://anupriya832.github.io/weather-app/) – Advanced Driver Assistance System using YOLO-based object detection and lane segmentation for real-time road-scene understanding  
-🔹 [**Solar PV Site**](https://anupriya832.github.io/Tic-Tac-Toe/) – Interactive web project for exploring and presenting solar photovoltaic site information  
-🔹 [**Cold Email Generator**](https://anupriya832.github.io/demo/) – AI-powered tool that generates personalized cold emails based on user-provided information  
+🔹 [**OpenADAS**](https://github.com/anupriya832/OpenADAS-) – Advanced Driver Assistance System using YOLO-based object detection and lane segmentation for real-time road-scene understanding  
+🔹 [**Solar PV Site**](https://anupriya832.github.io/Solar-Site-Prediction/) – Interactive web project for exploring and presenting solar photovoltaic site information  
+🔹 [**Cold Email Generator**](https://anupriya832.github.io/Cold-Email-Generator/) – AI-powered tool that generates personalized cold emails based on user-provided information  
 
 ---
 
