@@ -10,19 +10,19 @@
 ---
 
 ### 🌟 About Me  
-- 🎓 Pursuing **B.Tech in Artificial Intelligence and Machine Learning** from *Government Women Engineering College, Ajmer*  
-- 💻 Currently learning **Advanced React, DSA, and Real-World Project Building**  
-- 💼 Looking for **Machine Learning Internship Opportunities** to enhance my technical and creative skills  
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Python and Machine Learning**  
-- ⚡ Fun fact: *I enjoy building more than browsing!*  
+- 🎓 Pursuing B.Tech in Artificial Intelligence and Machine Learning**
+- 💻 Passionate about Machine Learning, Deep Learning, and Computer Vision** 
+- 🚗 Currently building OpenADAS — an Advanced Driver Assistance System using object detection and lane segmentation**  
+- 💻 Comfortable with Python, Machine Learning, Deep Learning**
+- 🚀 Interested in building real-world AI projects and continuously improving my problem-solving skills
 - 📧 Reach me at: **anupriyakmwt@gmail.com**
 
 ---
 
 ### 🧠 Projects  
-🔹 [**Weather App**](https://anupriya832.github.io/weather-app/) – A clean, responsive weather app using JavaScript and API integration  
-🔹 [**Tic Tac Toe**](https://anupriya832.github.io/Tic-Tac-Toe/) – Interactive game built using React & CSS animations  
-🔹 [**Stone Paper Scissor Game**](https://anupriya832.github.io/demo/) – Fun JS-based browser game  
+🔹 [**OpenADAS**](https://anupriya832.github.io/weather-app/) – Advanced Driver Assistance System using YOLO-based object detection and lane segmentation for real-time road-scene understanding  
+🔹 [**Solar PV Site**](https://anupriya832.github.io/Tic-Tac-Toe/) – Interactive web project for exploring and presenting solar photovoltaic site information  
+🔹 [**Cold Email Generator**](https://anupriya832.github.io/demo/) – AI-powered tool that generates personalized cold emails based on user-provided information  
 
 ---
 
